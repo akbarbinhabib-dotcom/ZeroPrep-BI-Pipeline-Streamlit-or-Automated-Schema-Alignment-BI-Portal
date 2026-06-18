@@ -24,9 +24,6 @@ This portal features an **Automated Schema Alignment Layer** that allows non-tec
 * **Data Engineering:** Pandas & NumPy (Advanced cleaning, median imputations, boundary clipping)
 * **Design Philosophy:** Separation of Concerns (Backend ETL logic decoupled from UI display)
 
-## 📦 How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/akbarbinhabib-dotcom/ZeroPrep-BI-Pipeline-Streamlit.git
+### 🌐 Live Demo
+👉 **https://github.com/akbarbinhabib-dotcom/bi-dashboard-streamlit/blob/main/app.py**
 
