@@ -6,7 +6,7 @@ import streamlit as st
 # 1. STREAMLIT APPLICATION CONFIGURATION
 # ==============================================================================
 # Setting up page layouts and window configurations to ensure responsiveness.
-st.set_page_config(page_title="Mock data generate & robut coloumns mapping", layout="centered")
+st.set_page_config(page_title="Mock data generate & robut coloumns mapping", layout="width")
 
 st.title("Mock Data Generation & Robust Column Mapping")
 st.write("This Streamlit app will help you generate mock data and robustly map the client's custom columns.")
