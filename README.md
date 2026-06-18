@@ -27,4 +27,4 @@ This portal features an **Automated Schema Alignment Layer** that allows non-tec
 ## 🌐 Live Demo
 👉 **[Launch the Live BI Dashboard](https://bi-dashboard-app-u5xwiuq4i42suscngjnsh7.streamlit.app/)**
 
-> 💡 **Note:** If the application is sleeping, please click **"Wake up"** to spin up the Streamlit container instantly.
+> 💡 **Note:** If the application is sleeping, please click **"Wake up"** to spin up the Streamlit container instantly.   
