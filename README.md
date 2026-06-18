@@ -24,6 +24,7 @@ This portal features an **Automated Schema Alignment Layer** that allows non-tec
 * **Data Engineering:** Pandas & NumPy (Advanced cleaning, median imputations, boundary clipping)
 * **Design Philosophy:** Separation of Concerns (Backend ETL logic decoupled from UI display)
 
-### 🌐 Live Demo
-👉 **https://github.com/akbarbinhabib-dotcom/bi-dashboard-streamlit/blob/main/app.py**
+## 🌐 Live Demo
+👉 **[Launch the Live BI Dashboard](https://bi-dashboard-app-u5xwiuq4i42suscngjnsh7.streamlit.app/)**
 
+> 💡 **Note:** If the application is sleeping, please click **"Wake up"** to spin up the Streamlit container instantly.
